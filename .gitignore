@@ -5,3 +5,5 @@ venv*
 *.egg-info
 *token.txt
 *dist
+venv_test/*
+venv_wqp/*
